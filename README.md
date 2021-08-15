@@ -4,6 +4,7 @@
 - 💞️ I’m currently looking for internship job.
 - 📫 How to reach me:
     1. Phone number: +6014-3863912
+    2. Email address: leewaihin2614@gmail.com
 
 <!---
 DarkinStyle/DarkinStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
